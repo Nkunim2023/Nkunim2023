@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/Rita-Okonkwo">Rita Okonkwo</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/Nkunim2023">William Nkum</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 #### 📬 Find me at
@@ -7,7 +7,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> 
-I'm a Software Engineer with a focus on web and mobile technologies. I also have an interest in OSS, Technical communities and Public speaking. I am open to collaborating on interesting OSS/Software projects & community building. My hobbies are reading books (mostly non-fiction), watching movies and eating chicken<br/><br/>
+Welcome to William Nkum's GitHub age<br/><br/>
 
 
 ## ⚡️ A Few Quick Facts
@@ -22,7 +22,6 @@ I'm a Software Engineer with a focus on web and mobile technologies. I also have
 
 
 
-### Hi there 👋
 
 <!--
 **Nkunim2023/Nkunim2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
