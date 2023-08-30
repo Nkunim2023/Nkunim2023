@@ -3,7 +3,7 @@
 
 #### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Nkunim2023)](https://github.com/Nkunim2023) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-nkum-b7709237/)/)](https://www.linkedin.com/in/william-nkum-b7709237/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-nkum-b7709237/)](https://www.linkedin.com/in/william-nkum-b7709237)
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> 
