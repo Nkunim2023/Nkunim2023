@@ -1,8 +1,6 @@
 # William Nkum                                                                             
 #### Data Scientist & Business Analyst
-![Data Scientist & Business Analyst](https://media.licdn.com/dms/image/D4D16AQFjfzFpdPSkkQ/profile-displaybackgroundimage-shrink_350_1400/0/1675013387387?e=1698883200&v=beta&t=khBQZ1aNrGjq4JJruEIiK109G3Alf0cmAU13ep5BX7Y)
-
-
+![Data Scientist & Business Analyst](https://github.com/Nkunim2023/Nkunim2023/blob/main/Data.png?raw=true)
 
 ## About me... <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> <br />
 A results-driven professional with experience spanning Data Management, Network and System Administration, and Cybersecurity, seeking a fresh challenge in Data Science and Business Analytics. 
