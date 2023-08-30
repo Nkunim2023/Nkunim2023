@@ -11,6 +11,6 @@ A results-driven professional with experience spanning Data Management, Network 
 Tableau<br />PowerBI<br />EDA<br />  Data Visualization
 
 
-## 📬 Find me at
+## 📬 Get In Touch!
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Nkunim2023)](https://github.com/https://github.com/Nkunim2023/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-nkum-b7709237//)](https://www.linkedin.com/in/william-nkum-b7709237/)
