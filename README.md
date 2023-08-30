@@ -2,8 +2,8 @@
 </h1>
 
 #### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Rita-Okonkwo)](https://github.com/Rita-Okonkwo) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-okonkwo/)](https://www.linkedin.com/in/rita-okonkwo/)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Nkunim2023)](https://github.com/Nkunim2023) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-okonkwo/)]([https://www.linkedin.com/in/rita-okonkwo/](https://www.linkedin.com/in/william-nkum-b7709237/))
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> 
@@ -14,10 +14,7 @@ Welcome to William Nkum's GitHub age<br/><br/>
 
 - 🔭 I’m currently working on getting the React Nanodegree on Udacity😄
 - 🌱 I’m currently learning the art and science of Software Engineering.
-- 📝 I write technical blogs and articles. [Check out my blog](https://blog.ritaokonkwo.com)
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1iSjFcMlw9Kw4xIypffr1Nzj1uTXDXv1P/view?usp=sharing)
-- 😄 Pronouns: She/Her
-- 🎉 Fun-Fact: I ❤️ reading words in their reversed form!
+
 
 
 
