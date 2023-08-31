@@ -6,10 +6,14 @@
 A results-driven professional with experience spanning Data Management, Network and System Administration, and Cybersecurity, seeking a fresh challenge in Data Science and Business Analytics. 
 
 ## Skills & Experience  
- •	Machine Learning: Supervised and unsupervised Models 
+ •	Machine Learning: Supervised and unsupervised Models
+ 
  •	Database Systems: SQL, Excel
+ 
  •	Reporting Tools: Tableau, Microsoft PowerBI, Tableau
- •	Statistical methods: Hypothesis testing & confidence interval, Predictive Analysis,
+ 
+ •	Statistical methods: Hypothesis testing & confidence interval, Predictive Analysis
+ 
  •	Python Libraries: Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Pandas Profiling
 
 
