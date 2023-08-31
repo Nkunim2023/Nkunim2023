@@ -7,6 +7,14 @@ A results-driven professional with experience spanning Data Management, Network 
 
 ## Professional Certifications
 
+1.	Oracle Cloud Infrastructure Certified Data Science Professional || Oracle University || 2023
+2.	Google Data Analytics || Coursera || 2022
+3.	IBM Data Analyst || Coursera || 2022
+4.	Microsoft Certified Solutions Expert (MCSE) Server Infrastructure || 2012
+5.	CompTIA Security+ CE | July 2020
+6.	Certified Professional Ethical Hacker C)PEH Mile2 | November 2019
+
+
 ## Skills & Experience  
 -  Machine Learning: Supervised and unsupervised Models
 -  Database Systems: SQL, Excel
