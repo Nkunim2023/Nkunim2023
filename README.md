@@ -9,12 +9,12 @@ A results-driven professional with experience spanning Data Management, Network 
 Tableau<br />PowerBI<br />EDA<br />  Data Visualization
 
 ## Academic Projects
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fmygreatlearning%2Fwilliam-nkum%2Fd05b41786476c9fdc6dc6234a7c2ce1b2527a904"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fmygreatlearning%2Fwilliam-nkum%2Fd05b41786476c9fdc6dc6234a7c2ce1b2527a904"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fmygreatlearning%2Fwilliam-nkum%2Fd05b41786476c9fdc6dc6234a7c2ce1b2527a904"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fmygreatlearning%2Fwilliam-nkum%2Fd05b41786476c9fdc6dc6234a7c2ce1b2527a904"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fmygreatlearning%2Fwilliam-nkum%2Fd05b41786476c9fdc6dc6234a7c2ce1b2527a904"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Folympus1.mygreatlearning.com%2Fmygreatlearning%2Fwilliam-nkum%2Fd05b41786476c9fdc6dc6234a7c2ce1b2527a904"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
 
 
 ## 📬 Get In Touch!
