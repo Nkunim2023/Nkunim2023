@@ -14,7 +14,7 @@ A results-driven professional with experience spanning Data Management, Network 
 
 
 ## Academic Projects
-<a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+<a href="https://github.com/Nkunim2023/ReneWind"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/rene.jpeg?raw=true" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
 <a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
 <a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
 <a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
