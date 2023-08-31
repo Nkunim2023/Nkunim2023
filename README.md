@@ -6,7 +6,12 @@
 A results-driven professional with experience spanning Data Management, Network and System Administration, and Cybersecurity, seeking a fresh challenge in Data Science and Business Analytics. 
 
 ## Skills & Experience  
-Tableau<br />PowerBI<br />EDA<br />  Data Visualization
+ •	Machine Learning: Supervised and unsupervised Models 
+ •	Database Systems: SQL, Excel
+ •	Reporting Tools: Tableau, Microsoft PowerBI, Tableau
+ •	Statistical methods: Hypothesis testing & confidence interval, Predictive Analysis,
+ •	Python Libraries: Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Pandas Profiling
+
 
 ## Academic Projects
 <a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
