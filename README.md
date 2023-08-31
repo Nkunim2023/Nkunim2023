@@ -5,6 +5,8 @@
 ## About me... <img src="https://media.giphy.com/media/IcdIKJQbS7T9yNg0su/giphy.gif" width="50"> <br />
 A results-driven professional with experience spanning Data Management, Network and System Administration, and Cybersecurity, seeking a fresh challenge in Data Science and Business Analytics. 
 
+## Professional Certifications
+
 ## Skills & Experience  
 -  Machine Learning: Supervised and unsupervised Models
 -  Database Systems: SQL, Excel
