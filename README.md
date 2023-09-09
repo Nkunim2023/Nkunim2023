@@ -24,12 +24,24 @@ A results-driven professional with experience spanning Data Management, Network 
 
 
 ## Academic Projects
-<a href="https://github.com/Nkunim2023/ReneWind"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/rene.jpeg?raw=true" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
-<a href="https://github.com/Nkunim2023/MyDataAnalyticsProjects"><img src="https://github.com/Nkunim2023/Nkunim2023/blob/main/Renewind.jpg" alt="A project on ReneWind" width="240" height="180" border="10" /></a>
+
+|ReneWind                                                |
+|![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
+|:--------------------------:                            |:------------------------:                                 | :------------------------:
+|[View Project](https://github.com/Nkunim2023/ReneWind)  |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
+
+
+![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
+:--------------------------:                            |:------------------------:                                 | :------------------------:
+[View Project](https://github.com/Nkunim2023/ReneWind)  |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
+
+
+| Renewind | 
+| :----------- | 
+| ![rene](rene.jpeg) | 
+| [View Project](https://github.com/Nkunim2023/ReneWind) |  
+
+
 
 
 ## 📬 Get In Touch!
