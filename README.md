@@ -25,21 +25,16 @@ A results-driven professional with experience spanning Data Management, Network 
 
 ## Academic Projects
 
-|ReneWind                                                |
-|![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
+| ReneWind - A project on Model Tuning                   | re                                                      |re
 |:--------------------------:                            |:------------------------:                                 | :------------------------:
-|[View Project](https://github.com/Nkunim2023/ReneWind)  |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
+|![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
+|[Click Here to read more](https://github.com/Nkunim2023/ReneWind)     |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
 
 
 ![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
 :--------------------------:                            |:------------------------:                                 | :------------------------:
 [View Project](https://github.com/Nkunim2023/ReneWind)  |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
 
-
-| Renewind | 
-| :----------- | 
-| ![rene](rene.jpeg) | 
-| [View Project](https://github.com/Nkunim2023/ReneWind) |  
 
 
 
