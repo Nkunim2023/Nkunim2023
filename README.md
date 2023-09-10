@@ -25,15 +25,16 @@ A results-driven professional with experience spanning Data Management, Network 
 
 ## Academic Projects
 
-| ReneWind - A project on Model Tuning                   | re                                                      |re
-|:--------------------------:                            |:------------------------:                                 | :------------------------:
-|![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
-|[Click Here to read more](https://github.com/Nkunim2023/ReneWind)     |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
+| ReneWind <br>A project on Model Tuning                             | EasyVisa <br>A project on Ensemble Techniques             |INN Hotels <br>Supervised Learning - Classification
+|:--------------------------:                                        |:------------------------:                                 | :------------------------:
+|![](rene.jpeg)                                                      |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
+|[Click Here to read more](https://github.com/Nkunim2023/ReneWind)   |  [Click Here to read more](https://github.com/Nkunim2023/ReneWind)   | [Click Here to read more](https://github.com/Nkunim2023/ReneWind)
 
 
-![](rene.jpeg)                                          |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
-:--------------------------:                            |:------------------------:                                 | :------------------------:
-[View Project](https://github.com/Nkunim2023/ReneWind)  |  [View Project](https://github.com/Nkunim2023/ReneWind)   | [View Project](https://github.com/Nkunim2023/ReneWind)
+| ReCell <br>Supervised Learning - Foundations                       | E-news Express Project <br>A project on Business Statistics        |FoodHub Order Analysis <br>A project using Python
+|:--------------------------:                                        |:------------------------:                                          | :------------------------:
+|![](rene.jpeg)                                                      |  ![](EasyVisa.jpg)                                                 | ![](EasyVisa.jpg)
+[Click Here to read more](https://github.com/Nkunim2023/ReneWind)  |  [Click Here to read more](https://github.com/Nkunim2023/ReneWind)   | [Click Here to read more](https://github.com/Nkunim2023/ReneWind)
 
 
 
