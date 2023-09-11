@@ -25,15 +25,15 @@ A results-driven professional with experience spanning Data Management, Network 
 
 ## Academic Projects
 
-| ReneWind <br>A project on Model Tuning                             | EasyVisa <br>A project on Ensemble Techniques             |INN Hotels <br>Supervised Learning - Classification
-|:--------------------------:                                        |:------------------------:                                 | :------------------------:
-|![](rene.jpeg)                                                      |  ![](EasyVisa.jpg)                                        | ![](EasyVisa.jpg)
+| ReneWind <br>A project on Model Tuning                             | EasyVisa <br>A project on Ensemble Techniques                        |INN Hotels <br>Supervised Learning - Classification
+|:--------------------------:                                        |:------------------------:                                            | :------------------------:
+|![](https://i.imgur.com/hsyxKc7.jpg)                                |  ![](https://i.imgur.com/njQxBoM.jpg)                                | ![](https://i.imgur.com/bqcI2cB.jpg)
 |[Click Here to read more](https://github.com/Nkunim2023/ReneWind)   |  [Click Here to read more](https://github.com/Nkunim2023/ReneWind)   | [Click Here to read more](https://github.com/Nkunim2023/ReneWind)
 
 
 | ReCell <br>Supervised Learning - Foundations                       | E-news Express Project <br>A project on Business Statistics        |FoodHub Order Analysis <br>A project using Python
 |:--------------------------:                                        |:------------------------:                                          | :------------------------:
-|![](rene.jpeg)                                                      |  ![](EasyVisa.jpg)                                                 | ![](EasyVisa.jpg)
+|![](https://i.imgur.com/5Prjkyb.png)                                |  ![](https://i.imgur.com/9fnxVCD.jpg)                              | ![](https://i.imgur.com/UtjoN8j.jpg)
 [Click Here to read more](https://github.com/Nkunim2023/ReneWind)  |  [Click Here to read more](https://github.com/Nkunim2023/ReneWind)   | [Click Here to read more](https://github.com/Nkunim2023/ReneWind)
 
 
