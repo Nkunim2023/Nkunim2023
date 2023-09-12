@@ -28,13 +28,13 @@ A results-driven professional with experience spanning Data Management, Network 
 | ReneWind <br>A project on Model Tuning                             | EasyVisa <br>A project on Ensemble Techniques                        |INN Hotels <br>Supervised Learning - Classification
 |:--------------------------:                                        |:------------------------:                                            | :------------------------:
 |![](https://i.imgur.com/hsyxKc7.jpg)                                |  ![](https://i.imgur.com/njQxBoM.jpg)                                | ![](https://i.imgur.com/bqcI2cB.jpg)
-|[Click Here to read more](https://github.com/Nkunim2023/ReneWind)   |  [Click Here to read more](https://github.com/Nkunim2023/EasyVisa/)   | [Click Here to read more](https://github.com/Nkunim2023/ReneWind)
+|[Click Here to read more](https://github.com/Nkunim2023/ReneWind)   |  [Click Here to read more](https://github.com/Nkunim2023/EasyVisa/)   | [Click Here to read more](https://github.com/Nkunim2023/INN-Hotels)
 
 
 | ReCell <br>Supervised Learning - Foundations                       | E-news Express Project <br>A project on Business Statistics        |FoodHub Order Analysis <br>A project using Python
 |:--------------------------:                                        |:------------------------:                                          | :------------------------:
 |![](https://i.imgur.com/5Prjkyb.png)                                |  ![](https://i.imgur.com/9fnxVCD.jpg)                              | ![](https://i.imgur.com/UtjoN8j.jpg)
-[Click Here to read more](https://github.com/Nkunim2023/ReneWind)  |  [Click Here to read more](https://github.com/Nkunim2023/ReneWind)   | [Click Here to read more](https://github.com/Nkunim2023/ReneWind)
+[Click Here to read more](https://github.com/Nkunim2023/ReCell)  |  [Click Here to read more](https://github.com/Nkunim2023/E-news-Express)   | [Click Here to read more](https://github.com/Nkunim2023/FoodHub-Order-Analysis)
 
 
 
